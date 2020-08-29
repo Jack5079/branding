@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="why am i doing this.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 257.3093 196.47"
+   height="196.47mm"
+   width="257.3093mm">
+  <title
+     id="title153">Gunpoint Games</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:pagecheckerboard="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="1405.9344"
+     inkscape:cx="2436.2613"
+     inkscape:zoom="0.16"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#000000"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gunpoint Games</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(52.231701,-23.432473)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       style="fill:#ffffff"
+       transform="matrix(-0.26458333,0,0,0.26458333,83.234964,9.7746971)"
+       id="g34">
+      <path
+         style="fill:#ffffff"
+         d="m 15,73.528 c -8.284,0 -15,6.716 -15,15 V 132.5 H 38.818 L 25.722,73.528 Z"
+         id="path26" />
+      <path
+         style="fill:#ffffff"
+         d="m 397.71,438.472 h 23.34 L 398.558,348.27 c -3.434,-15.214 -16.725,-25.84 -32.321,-25.84 H 345.6 l 20.989,91.266 c 3.335,14.501 16.242,24.776 31.121,24.776 z"
+         id="path28" />
+      <path
+         style="fill:#ffffff"
+         d="m 76.325,163.016 c 7.12,28.478 32.707,48.457 62.062,48.457 h 70.737 c 0,61.183 49.776,110.958 110.958,110.958 H 345.6 l -6.899,-30 h -18.618 c -44.641,0 -80.958,-36.317 -80.958,-80.958 h 80.958 l 18.618,80.958 h 27.536 c 29.659,0 54.941,20.165 61.546,49.062 l 24.186,96.98 h 8.153 c 20.526,0 35.721,-19.086 31.12,-39.09 l -43.215,-187.91 c 30.163,0 55.434,-20.881 62.186,-48.972 H 76.21 Z"
+         id="path30" />
+      <path
+         style="fill:#ffffff"
+         d="M 497,73.528 H 56.453 L 69.549,132.5 H 512 V 88.528 c 0,-8.285 -6.716,-15 -15,-15 z"
+         id="path32" />
+    </g>
+    <text
+       id="text151"
+       y="99.895996"
+       x="133.34087"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.8699px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato Italic';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.12175"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lato;-inkscape-font-specification:'Lato Italic';fill:#ffffff;stroke-width:1.12175"
+         y="99.895996"
+         x="133.34087"
+         id="tspan149"
+         sodipodi:role="line">Glock Games</tspan></text>
+  </g>
+</svg>

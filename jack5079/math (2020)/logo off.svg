@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="1321.9399"
+   inkscape:export-xdpi="1321.9399"
+   inkscape:export-filename="C:\Users\jacki\Desktop\Branding\logo7.png"
+   sodipodi:docname="logo off.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg863"
+   version="1.1"
+   viewBox="0 0 36.541156 36.541156"
+   height="138.10831"
+   width="138.10831">
+  <defs
+     id="defs857">
+    <linearGradient
+       id="linearGradient833"
+       inkscape:collect="always">
+      <stop
+         id="stop829"
+         offset="0"
+         style="stop-color:#800000;stop-opacity:1" />
+      <stop
+         id="stop831"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(58.869791,8.9769346)"
+       gradientUnits="userSpaceOnUse"
+       y2="176.52464"
+       x2="144.08682"
+       y1="142.03432"
+       x1="14.063011"
+       id="linearGradient835"
+       xlink:href="#linearGradient833"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     units="px"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="40.899106"
+     inkscape:cx="44.51281"
+     inkscape:zoom="3.959798"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata860">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-71.420898,-122.40759)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="122.00157"
+       x="67.735634"
+       height="73.13839"
+       width="145.42635"
+       id="rect827"
+       style="fill:url(#linearGradient835);fill-opacity:1;stroke:none;stroke-width:0.11;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+    <text
+       id="text1462-7"
+       y="144.99802"
+       x="89.853653"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.98324px;line-height:1.25;font-family:'Delugia Nerd Font';-inkscape-font-specification:'Delugia Nerd Font Bold';letter-spacing:-1.12291px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.224581"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.98313px;font-family:Inter;-inkscape-font-specification:'Inter Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.224581"
+         y="144.99802"
+         x="89.853653"
+         id="tspan1460-6"
+         sodipodi:role="line">off.</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Bold Italic'"
+         id="tspan969"
+         y="156.22707"
+         x="89.853653"
+         sodipodi:role="line" /></text>
+  </g>
+</svg>
