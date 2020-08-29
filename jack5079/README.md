@@ -1,5 +1,5 @@
 # jack5079
 
-jack5079 is my username on most places.
+jack5079 is me
 
-If possible, I try to get the username "Jack" instead.
+i no longer use these; i just put a picture of my dog for my profile picture instead.
