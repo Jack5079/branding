@@ -7,34 +7,36 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="rebrand_attempts.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   id="svg8"
-   version="1.1"
-   viewBox="0 0 210 297"
+   width="210mm"
    height="297mm"
-   width="210mm">
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="rebrand_attempts.svg">
+  <style
+     id="style853"></style>
   <defs
      id="defs2" />
   <sodipodi:namedview
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:window-height="1017"
-     inkscape:window-width="1920"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="g914"
-     inkscape:document-units="mm"
-     inkscape:cy="58.903552"
-     inkscape:cx="136.25488"
-     inkscape:zoom="2.8284271"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.99999999"
+     inkscape:cx="167.83162"
+     inkscape:cy="69.26637"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g914"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -43,82 +45,105 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <g
        id="g914">
       <g
-         transform="translate(-25.929167,-42.994792)"
-         id="g919">
+         id="g919"
+         transform="translate(-25.929167,-42.994792)">
         <path
-           sodipodi:nodetypes="cc"
-           id="path14"
+           style="opacity:1;fill:none;stroke:#ff00ff;stroke-width:0.753916;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            d="m 27.105835,46.360003 c 6.211522,4.746149 12.491622,4.760458 18.840921,0"
-           style="opacity:1;fill:none;stroke:#ff00ff;stroke-width:0.753916;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           id="path14"
+           sodipodi:nodetypes="cc" />
         <text
-           id="text909"
-           y="51.59375"
-           x="47.426563"
+           xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inter;-inkscape-font-specification:Inter;stroke-width:0.264583"
-             y="51.59375"
-             x="47.426563"
+           x="47.426563"
+           y="51.59375"
+           id="text909"><tspan
+             sodipodi:role="line"
              id="tspan907"
-             sodipodi:role="line">trollsmile</tspan></text>
+             x="47.426563"
+             y="51.59375"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inter;-inkscape-font-specification:Inter;stroke-width:0.264583">trollsmile</tspan></text>
       </g>
-      <text
-         id="text923"
-         y="20.251167"
-         x="10.450569"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code';stroke-width:0.264583"
-           y="20.251167"
-           x="10.450569"
-           id="tspan921"
-           sodipodi:role="line">trollsmile</tspan></text>
-      <text
-         transform="rotate(90)"
-         id="text927"
-         y="-0.73069912"
-         x="8.9717245"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:#ff00ff;stroke-width:0.264583"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inter;-inkscape-font-specification:Inter;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.264583"
-           y="-0.73069912"
-           x="8.9717245"
-           id="tspan925"
-           sodipodi:role="line">:-D</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="10.313212"
-         y="36.606915"
-         id="text923-6"><tspan
+         x="10.450569"
+         y="20.251167"
+         id="text923"><tspan
            sodipodi:role="line"
-           id="tspan921-9"
-           x="10.313212"
-           y="36.606915"
+           id="tspan921"
+           x="10.450569"
+           y="20.251167"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code';stroke-width:0.264583">trollsmile</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:#ff00ff;stroke-width:0.264583"
-         x="27.478991"
-         y="-2.0900519"
-         id="text927-8"
+         x="8.9717245"
+         y="-0.73069912"
+         id="text927"
          transform="rotate(90)"><tspan
            sodipodi:role="line"
-           id="tspan925-1"
-           x="27.478991"
+           id="tspan925"
+           x="8.9717245"
+           y="-0.73069912"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inter;-inkscape-font-specification:Inter;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.264583">:-D</tspan></text>
+      <text
+         id="text923-6"
+         y="36.606915"
+         x="10.313212"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Cascadia Code';-inkscape-font-specification:'Cascadia Code';stroke-width:0.264583"
+           y="36.606915"
+           x="10.313212"
+           id="tspan921-9"
+           sodipodi:role="line">trollsmile</tspan></text>
+      <text
+         transform="rotate(90)"
+         id="text927-8"
+         y="-2.0900519"
+         x="27.478991"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:#ff00ff;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inter;-inkscape-font-specification:Inter;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.264583"
            y="-2.0900519"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inter;-inkscape-font-specification:Inter;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.264583">:-]</tspan></text>
+           x="27.478991"
+           id="tspan925-1"
+           sodipodi:role="line">:-]</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="11.255097"
+         y="48.916828"
+         id="text923-6-9"><tspan
+           sodipodi:role="line"
+           id="tspan921-9-7"
+           x="11.255097"
+           y="48.916828"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Cascadia Mono';-inkscape-font-specification:'Cascadia Mono';stroke-width:0.264583">trollsmile</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.35879px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:#ff00ff;stroke-width:0.20897"
+         x="0.32038569"
+         y="48.569622"
+         id="text927-8-9"
+         transform="rotate(-0.20037127)"><tspan
+           sodipodi:role="line"
+           id="tspan925-1-5"
+           x="0.32038569"
+           y="48.569622"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inter;-inkscape-font-specification:Inter;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.20897">^_^</tspan></text>
     </g>
   </g>
 </svg>
